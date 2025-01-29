@@ -1,8 +1,9 @@
 #and,or,not
 
-gas = True
-encendido = True 
+gas = False
+encendido = True
+edad = 18
 
-if gas and encendido:
+if not gas and (encendido or edad >17):
     print("Puedes avanzar")
 
