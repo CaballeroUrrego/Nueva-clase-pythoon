@@ -1,5 +1,5 @@
-n1= input("Ingresa primer numero")
-n2= input("Ingresa Segundo numero")
+n1= input("Ingresa primer numero :")
+n2= input("Ingresa Segundo numero:")
 
 
 

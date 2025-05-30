@@ -7,6 +7,8 @@ elif edad > 55:
 elif edad > 17:
     print("Puedes ver la película")
 else:
-    print("Debes irte")
+    print("Debes irte"),
+    
+    
 
 print("Listo")
